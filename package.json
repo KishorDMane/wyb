@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "ioredis": "^5.4.1",
+    "rate-limiter-flexible": "^5.0.3",
+    "ws": "^8.18.0"
+  }
+}
