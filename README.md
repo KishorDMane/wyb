@@ -56,8 +56,6 @@ Run each test file one by one using:
 node <test_file_name>
 ```
 
-> **Note:** No test file has been created for session management and state sharing.
 
----
 
 For further details or issues, feel free to consult the project documentation or reach out.
